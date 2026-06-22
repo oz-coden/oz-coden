@@ -29,4 +29,3 @@ From game development to creating utility tools, I like the process of designing
 ## 📫 How to reach me
 
 - **Discord**: @oz_coden
-- 
