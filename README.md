@@ -1,5 +1,7 @@
 # 👋 Hi, I’m @oz-coden
 
+※Currently, I'm uploading local project files while updating and revising some of them.※
+  
 I am a solo developer who enjoys building simple and practical applications.   
 From game development to creating utility tools, I like the process of designing algorithms, abstraction and structuring code.
 
