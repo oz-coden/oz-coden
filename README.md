@@ -9,7 +9,7 @@ From game development to creating utility tools, I like the process of designing
 ### Languages
 - **Primary**: Java / C# 
 - **Secondary**: Python / JavaScript (HTML, CSS)
-- **Others**: C / Visual Basic / Lisp (a little bit)
+- **Others**: C / Visual Basic / Lua / Lisp (a little bit)
 
 ### Tools & Environments
 - **Editors & IDEs**: Visual Studio / Visual Studio Code / IntelliJ IDEA
