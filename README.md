@@ -26,6 +26,7 @@ From game development to creating utility tools, I like the process of designing
 ## What I Do & Interests
 - **Tool, Game & Mod Development:** Making tools with C#, Building games using Unity (C#) & Visual Studio Code, and creating Minecraft mods/plugins with Java & IntelliJ IDEA.
 - **General Programming:** Developing web frontends and practical utility tools using VS Code.
+- **Localization & Translation:** Experienced in translating games, and mods with resource packs.
 - **Interests:** Security, Cryptography, Algorithm, Abstraction, and Networking. 
 
 ## 📫 How to reach me
