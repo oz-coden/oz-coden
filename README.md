@@ -33,4 +33,4 @@ From game development to creating utility tools, I like the process of designing
 
 - **Discord**: @oz_coden
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cotore-game&layout=compact&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=oz-coden&show_icons=true&locale=ja&layout=compact&theme=dark)" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oz-coden&show_icons=true&locale=ja&layout=compact&theme=dark" />
